@@ -132,7 +132,7 @@ python installed, if they don't need python bindings.
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>exec-maven-plugin</artifactId>
-        <version>1.1</version>
+        <version>3.1</version>
         <executions>
           <execution>
             <id>generate-bindings</id>
